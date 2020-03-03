@@ -1,12 +1,12 @@
-package com.teal.springboot;
+package com.teal.document;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HellospringbootApplication {
+public class DocumentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HellospringbootApplication.class, args);
+		SpringApplication.run(DocumentApplication.class, args);
 	}
 }
